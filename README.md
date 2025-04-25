@@ -102,15 +102,6 @@ Washington is demonstrating leadership in EV adoption, providing insights that c
 
 ---
 
-## References
-
-- IMDb. (n.d.). [What is IMDb?](https://help.imdb.com/article/imdb/general-information/what-is-imdb/G836CY29Z4SGNMK5)
-- IMDb. (n.d.). [Press Room - IMDb](https://www.imdb.com/pressroom/stats/)
-- Kaggle Dataset. (2023). [IMDb Horror: Chilling Movie Dataset](https://www.kaggle.com/datasets/shreyanshverma27/imdb-horror-chilling-movie-dataset)
-- Tableau Public Visualizations (Accessed 2024).
-- Washington State EV Registration Data (Public Access).
-
----
 
 *Prepared as part of an exploratory data science initiative on Electric Vehicle adoption trends in Washington State.*
 
